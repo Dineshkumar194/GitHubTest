@@ -8,6 +8,7 @@ public class Init {
 		System.out.println("SECOND LINE");
 		System.out.println("THIRD LINE");
 		System.out.println("FOURTH LINE");
+		System.out.println("FIFTH LINE");
 		
 	}
 
