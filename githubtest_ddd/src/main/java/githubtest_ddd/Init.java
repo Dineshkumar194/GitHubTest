@@ -7,7 +7,7 @@ public class Init {
 		
 		System.out.println("FEATURE 1 added");
 
-		System.out.println("FEATURE 1 added second line");
+		System.out.println("FEATURE 1 modified second line");
 		
 		System.out.println("FIRST LINE");
 		System.out.println("SECOND LINE");
