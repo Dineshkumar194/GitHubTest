@@ -6,8 +6,6 @@ public class Init {
 		// TODO Auto-generated method stub
 		
 		System.out.println("FEATURE 1 added");
-
-		System.out.println("FEATURE 1 modified second line");
 		
 		System.out.println("FIRST LINE");
 		System.out.println("SECOND LINE");
