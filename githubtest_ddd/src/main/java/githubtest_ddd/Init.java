@@ -8,10 +8,8 @@ public class Init {
 		System.out.println("FEATURE 1 added");
 		
 		System.out.println("FIRST LINE");
-		System.out.println("SECOND LINE");
-		System.out.println("THIRD LINE");
-		System.out.println("FOURTH LINE");
-		System.out.println("FIFTH LINE");
+		System.out.println("Feature 2 first push");
+
 		
 	}
 
